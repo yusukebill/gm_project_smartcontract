@@ -1,5 +1,10 @@
-# Basic Sample Hardhat Project
+# ☕️ gm portal
+Toy project for learning about smart contracts, Ethereum and web3, by following a course by https://buildspace.so. 
 
+You can see the live deployed version here and come say gm to me. 
+
+
+# basic Hardhat Project
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 Try running some of the following tasks:
